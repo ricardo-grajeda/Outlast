@@ -1,0 +1,3 @@
+﻿  dllmain.cpp
+C:\Users\ricar\source\repos\outlast\outlast\dllmain.cpp(72,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  outlast.vcxproj -> C:\Users\ricar\source\repos\outlast\x64\Debug\outlast.dll

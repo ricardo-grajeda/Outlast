@@ -3,6 +3,12 @@
 
 <b>Reason for making</b>: I've had this game beat in my library for a while now and I don't take gaming as serious as others. I wanted to see if I could aquire the "insane" achievement from steam for the hell of it. So I created this multi-hack.
 
+<p><em>BUILD Requirements:</em><ul>
+  <li><b>visual stuidios settings:</b> Set character set to "multi byte character set"</li>
+  <li><b>visual stuidios settings:</b> Precompiled headers set to not using</li>
+</ul></p>
+
+
 <b><u>cons</u></b>
 <ul>
 <li>• No GUI (just terminal) **see picture for preview***</li>
@@ -18,7 +24,7 @@
   <li>max camera nighvision battery</li>
 </ul>
 
-<p>USAGE: Drop into your game  THEN use your favorite dll injector. Use F1 - F6 to run cheats after injecting.</p>
+<p><b>USAGE:</b> start game and drop into your character screen <strong>THEN</strong> use your favorite dll injector. Use F1 - F6 to run cheats after injecting.</p>
 
 <p>
   <b>Previews</b>

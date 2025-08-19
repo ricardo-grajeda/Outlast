@@ -1,4 +1,4 @@
-# Outlast
+# Outlast (internal hack)
 <strong>Steam game multi-hack</strong>
 
 <b>Reason for making</b>: I've had this game beat in my library for a while now and I don't take gaming as serious as others. I wanted to see if I could aquire the "insane" achievement for stem for the hell of it. So I created this multi-hack.
